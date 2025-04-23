@@ -1,8 +1,8 @@
-# StudyScribe
+#Scribe
 
 **Your smart assistant for turning lectures into notes and notes into audio**
 
-StudyScribe is an open-source Python tool built especially for students. With StudyScribe, you can:
+Scribe is an open-source Python tool built especially for students. With StudyScribe, you can:
 
 - **Transcribe** lecture recordings (MP3/WAV) into clean, editable text.  
 - **Synthesize** your notes into audio files (MP3) for hands-free review.  
